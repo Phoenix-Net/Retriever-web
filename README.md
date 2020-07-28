@@ -1,8 +1,5 @@
-## Woah!
+## Retriever-web, a websplash for Retriever (https://github.com/Phoenix-Net/Retriever)
 
 What's this you ask? 
 
-
-It's yet another gsheps.net revamp, this time with EVEN MORE JAVASCRIPT! Let's get cracking! 
-
-![Demoimage](https://github.com/Phoenixthedoggo/gsheps.net-v3/blob/master/photos/demo.png)
+This is the web-splash for Retriever, used to showcase it's features, and development team.
