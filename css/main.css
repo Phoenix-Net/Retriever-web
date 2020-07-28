@@ -14,8 +14,8 @@ body {
     --fg-light: #FFFFFF;
     --bg-dark: #23272A;
     --fg-dark: #23272A;
-    --highlight-blue: #ffffff;
-    --highlight-magenta: #33416a;
+    --highlight-blue: #FFFFFF;
+    --highlight-magenta: #0099ff;
     --stripe-color: var(--highlight-blue);
     font-family: "Helvetica", sans-serif;
     line-height: 1.2em;
